@@ -14,9 +14,6 @@ My name is Bao
 
 Education
 ======
-<img src='/images/graduation-cap-icon.png' width='20' height='13'>   **MSc in Theoretical and Mathematical Physics**
-  Ludwig Maximilian University of Munich, Germany (Expected: 2026)
-
 <img src='/images/graduation-cap-icon.png' width='20' height='13'>   **BSc in Physics**
   Arkansas State University, USA (2023)
 
