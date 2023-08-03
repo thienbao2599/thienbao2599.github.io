@@ -15,6 +15,7 @@ My name is Bao
 Education
 ======
 <img src='/images/graduation-cap-icon.png' width='20' height='13'>  Bachelor of Science in Physics (8/2019-12/2023)
+
 <img src='/images/graduation-cap-icon.png' width='20' height='13'>  Bachelor of Science in Mathematics (8/2019-12/2023)
 
 
