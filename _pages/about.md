@@ -14,12 +14,11 @@ My name is Bao
 
 Education
 ======
-<img src='/images/graduation-cap-icon.png' width='20' height='13'>  **BSc in Physics**
+<img src='/images/graduation-cap-icon.png' width='20' height='13'>   **BSc in Physics**
   Arkansas State University, USA (2023)
 
-<img src='/images/graduation-cap-icon.png' width='20' height='13'>  **BSc in Mathematics**
+<img src='/images/graduation-cap-icon.png' width='20' height='13'>   **BSc in Mathematics**
   Arkansas State University, USA (2023)
-
 
 
 Interests
