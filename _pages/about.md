@@ -21,9 +21,5 @@ Education
   Arkansas State University, USA (2023)
 
 
-Interests
-======
-. Quantum Gravity
 
-. String Theory
 
