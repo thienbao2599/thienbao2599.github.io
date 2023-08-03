@@ -23,7 +23,7 @@ Education
 
 Interests
 ======
-*Quantum Theory*
+-*Quantum Theory*
 
-*String Theory*
+-*String Theory*
 
