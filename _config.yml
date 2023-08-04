@@ -83,8 +83,8 @@ author:
   name             : "Bao Nguyen"
   avatar           : "profile.png"
   bio              : "Bachelor Student"
-  location         : "Location"
-  employer         :
+# location         : "Location"
+  employer         : "Arkansas State University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
